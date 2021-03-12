@@ -2,4 +2,4 @@
 
 Hi there 
 
-A noob starting on a new journey !
+Starting on a new journey !
